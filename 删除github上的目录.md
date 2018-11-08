@@ -1,4 +1,4 @@
-###将远程仓库里面的项目拉下来
+### 将远程仓库里面的项目拉下来
 `git pull origin master`
 ### 删除target文件夹
 `git rm -r --cached target`
